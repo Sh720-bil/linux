@@ -1,2 +1,3 @@
 # linux
-for web hosting on aws
+Step to host website on AWS
+
